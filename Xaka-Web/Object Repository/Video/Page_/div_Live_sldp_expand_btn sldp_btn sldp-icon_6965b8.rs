@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Live_sldp_expand_btn sldp_btn sldp-icon_6965b8</name>
+   <tag></tag>
+   <elementGuidId>799ae3b2-8c6f-4bd6-978b-fadccf3fd261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='video-container']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sldp_expand_btn.sldp_btn.sldp-icon-enlarge</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sldp_expand_btn sldp_btn sldp-icon-enlarge</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;video-container&quot;)/div[@class=&quot;sldp_player_wrp sldp_player_wrp_video&quot;]/div[@class=&quot;sldp_cbar sldp_cbar_video&quot;]/div[@class=&quot;sldp_expand_btn sldp_btn sldp-icon-enlarge&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='video-container']/div/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
